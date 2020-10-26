@@ -1,0 +1,12 @@
+.header {
+    text-align: center;
+}
+
+.container {
+    position: absolute;
+}
+
+.button {
+    position: absolute;
+    left: 300px;
+}
